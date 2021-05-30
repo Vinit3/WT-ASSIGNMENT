@@ -1,0 +1,36 @@
+#cimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading{
+    text-align: center;
+    color: #907fa4;
+}
+.subjects{
+    margin: auto;
+    height: max-content;
+    width: max-content;
+}
+.container{
+    /* position: relative;
+    left: 10%; */
+}
+#proTitle{
+    margin: auto;
+    height: max-content;
+    width: max-content;
+    color: #022e57;
+}
+#subTxt{
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+a{
+    color: grey;
+}
+.colorAfterHover:hover{
+    color: red;
+}
